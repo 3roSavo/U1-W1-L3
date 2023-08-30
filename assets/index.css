@@ -1,0 +1,58 @@
+body {
+    margin:0;
+    font:18px georgia, serif;
+}
+
+header {
+    text-align: center;
+    font-size:16px;
+}
+
+#heading {
+    background-color:hsla(63, 100%, 50%, 0.076);
+    border-top: 1px solid hsl(63, 100%, 45%);
+    padding: 15px 0;
+    margin-top:10px;
+}
+
+#img-focaccia {
+    width:100%;
+    border-radius:8px;
+    box-shadow:2px 0px 12px 0px grey ;
+    
+
+}
+
+#img-author {
+    text-align:center;
+    color:gray;
+    font-size: 12px;
+    margin-top: 5px;
+}
+
+#header-text-bold {
+    font-weight: 600;
+}
+
+#text-featured-in {
+    color:red;
+}
+
+main {
+    margin:0 25%;
+}
+
+#featured-in {
+    margin:20px auto 30px auto;
+    border-left:1px solid hsl(63, 100%, 45%);
+    padding-left:20px;
+}
+
+h5 {
+    font-size:1.5em;
+    font-weight: 400;
+}
+
+#head-first-method {
+    font-weight: 600;
+}
